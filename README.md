@@ -17,7 +17,13 @@ Pixhawk https://github.com/Pixhawk
 
 MAVLink https://github.com/mavlink
 
+APM Planner 2.0 https://github.com/diydrones/apm_planner
+
 MAVProxy https://github.com/Dronecode/MAVProxy
+
+Mission Planner https://github.com/diydrones/MissionPlanner
+
+Q Ground Control https://github.com/mavlink/qgroundcontrol
 
 ROS https://github.com/ros
 
