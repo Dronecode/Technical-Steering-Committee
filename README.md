@@ -23,7 +23,7 @@ MAVProxy https://github.com/Dronecode/MAVProxy
 
 Mission Planner https://github.com/diydrones/MissionPlanner
 
-Q Ground Control https://github.com/mavlink/qgroundcontrol
+QGroundControl https://github.com/mavlink/qgroundcontrol
 
 ROS https://github.com/ros
 
