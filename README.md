@@ -27,7 +27,7 @@ QGroundControl https://github.com/mavlink/qgroundcontrol
 
 Dronekit https://github.com/dronekit
 
-ROS https://github.com/ros
+MAVROS https://github.com/mavlink/mavros
 
 SiK https://github.com/Dronecode/SiK
 
