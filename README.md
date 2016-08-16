@@ -9,7 +9,7 @@ This is a list of the repositories for Dronecode projects
 
 Please refer to https://www.dronecode.org/dronecode-software-platform for more information.
 
-Ardupilot https://github.com/diydrones/ardupilot
+Ardupilot https://github.com/Ardupilot
 
 PX4 https://github.com/PX4
 
