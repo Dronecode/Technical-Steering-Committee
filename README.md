@@ -1,6 +1,10 @@
 # TSC
 This is a repository for documents pertaining to the Technical Steering Committee 
 
+## TSC Meeting Minutes
+
+The TSC meeing minutes are kept as Google Docs and can be viewed [here](https://github.com/Dronecode/Technical-Steering-Committee/MeetingMinutes.md).
+
 ## PX4 Developer Call 
 - TIME: 19:00h Zurich time, 1 p.m. Eastern Time, 10 a.m. Pacific Standard Time
 - [Mumble](http://wiki.mumble.info/wiki/Installing_Mumble) Server: sitl01.dronetest.io
