@@ -3,7 +3,7 @@ This is a repository for documents pertaining to the Technical Steering Committe
 
 ## TSC Meeting Minutes
 
-The TSC meeing minutes are kept as Google Docs and can be viewed [here](https://github.com/Dronecode/Technical-Steering-Committee/MeetingMinutes.md).
+The TSC meeing minutes are kept as Google Docs and can be viewed [here](https://github.com/Dronecode/Technical-Steering-Committee/blob/master/MeetingMinutes.md).
 
 ## PX4 Developer Call 
 - TIME: 19:00h Zurich time, 1 p.m. Eastern Time, 10 a.m. Pacific Standard Time
@@ -16,7 +16,7 @@ The TSC meeing minutes are kept as Google Docs and can be viewed [here](https://
 
 The working group activities are [tracked on Github](https://github.com/orgs/Dronecode/projects)
 
-## This is a list of the repositories for Dronecode projects
+## Dronecode Project SW repositories
 
 Please refer to https://www.dronecode.org/dronecode-software-platform for more information.
 
