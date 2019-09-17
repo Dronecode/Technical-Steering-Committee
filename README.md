@@ -44,4 +44,4 @@ Snapdragon Flight http://dev.px4.io/hardware-snapdragon.html
 
 Pixhawk http://dev.px4.io/hardware-pixhawk.html
 
-Pixflacon http://dev.px4.io/hardware-pixfalcon.html
+Pixfalcon http://dev.px4.io/hardware-pixfalcon.html
